@@ -1,6 +1,6 @@
 <p align="center">
 <picture>
-  <img src="https://aiservices.review/storage/brandkit/logo-md-min.png" width="320" height="88" >
+  <img src="https://github.com/AI-Services-Review/.github/raw/main/images/logo-md-min.png" width="320" >
 </picture>
 </p>
 
