@@ -4,10 +4,10 @@
 </picture>
 </p>
 
-# [**🤖 AI Services Review**](https://aiservices.review/).
+# [**🤖 AI Services Review**](https://www.aiservices.review/)
 
 
-> A website created by AI and ML professionals and enthusiasts for providing honest, unbiased reviews of AI-powered services
+> Project is created by AI and ML professionals and enthusiasts for providing honest, unbiased reviews of AI-powered services
 
 ---
 
